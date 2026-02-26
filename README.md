@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=%E2%9A%A1+KUSHAGR+PANDEY+%E2%80%94+Systems+That+Survive+Chaos;%F0%9F%8C%8C+3D+Web+%7C+IoT+Mesh+Networks+%7C+Machine+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=%E2%9A%A1+KUSHAGR+PANDEY+%E2%80%94;%F0%9F%8C%8C+3D+Web+%7C+IoT+Mesh+Networks+%7C+Machine+Learning" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30" />
-  &nbsp; CYBERSPACE STATUS: <span style="color: #00f7ff">ONLINE</span> &nbsp;
+  &nbsp; Skills: <span style="color: #00f7ff">Maxed Out</span> &nbsp;
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30" />
 </h2>
 
@@ -324,10 +324,8 @@ capability: "Real-time data pipelines,
 ```diff
 + 🌌 Master advanced 3D real-time rendering (R3F + GLSL)
 + 🧠 Build ML-powered interactive web systems
-+ 🌊 Scale MAGICARP to production deployment
 + ⚙️ Contribute to major open-source projects
 + 🏆 Win elite-tier hackathons
-+ � Land top-tier industry internship
 + 📡 Push IoT mesh networking to new limits
 ```
 
