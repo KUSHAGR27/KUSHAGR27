@@ -129,9 +129,7 @@ const KUSHAGR = {
   <b>🌊 Marine Advanced Geospatial Intelligence & Coastal Adaptive Response Platform</b>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jIGsO4/giphy.gif" width="500" />
-</p>
+
 
 <table align="center">
 <tr>
