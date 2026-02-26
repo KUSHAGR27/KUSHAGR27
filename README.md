@@ -33,7 +33,7 @@
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30" />
-  &nbsp; Skills: <span style="color: #00f7ff">Maxed Out</span> &nbsp;
+  &nbsp; SKILLS: <span style="color: #00f7ff">MAXED OUT</span> &nbsp;
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30" />
 </h2>
 
@@ -116,7 +116,7 @@ const KUSHAGR = {
 </table>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif" width="500" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" />
 </p>
 
 ---
@@ -130,7 +130,7 @@ const KUSHAGR = {
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a8f9d-a138-427e-a127-beb29e4b4b44.gif" width="500" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jIGsO4/giphy.gif" width="500" />
 </p>
 
 <table align="center">
@@ -279,12 +279,12 @@ capability: "Real-time data pipelines,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KUSHAGR27&show_icons=true&theme=tokyonight&border_color=302b63&bg_color=0f0c29&title_color=00f7ff&icon_color=00f7ff&text_color=a9b1d6&hide_border=true&border_radius=15" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KUSHAGR27&show_icons=true&theme=tokyonight&border_color=302b63&bg_color=0f0c29&title_color=00f7ff&icon_color=00f7ff&text_color=a9b1d6&hide_border=true&border_radius=15" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KUSHAGR27&theme=tokyonight&background=0f0c29&ring=00f7ff&fire=ff6e96&currStreakLabel=00f7ff&sideLabels=00f7ff&border=302b63&hide_border=true&border_radius=15" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUSHAGR27&layout=compact&theme=tokyonight&border_color=302b63&bg_color=0f0c29&title_color=00f7ff&text_color=a9b1d6&hide_border=true&border_radius=15&langs_count=8" width="40%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KUSHAGR27&layout=compact&theme=tokyonight&border_color=302b63&bg_color=0f0c29&title_color=00f7ff&text_color=a9b1d6&hide_border=true&border_radius=15&langs_count=8" width="40%" />
 </p>
 
 ---
@@ -292,6 +292,9 @@ capability: "Real-time data pipelines,
 <!-- =================== CONTRIBUTION SNAKE =================== -->
 
 <h2 align="center">🐍 CYBER CONTRIBUTION MATRIX</h2>
+
+> [!NOTE]
+> The snake animation is generated automatically by GitHub Actions. If it is broken, it implies the action hasn't successfully run yet. Once pushed to GitHub, trigger the **Generate Snake Animation** workflow manually from the Actions tab or wait for the nightly run to generate it.
 
 <p align="center">
   <picture>
@@ -305,10 +308,10 @@ capability: "Real-time data pipelines,
 
 <!-- =================== TROPHY CASE =================== -->
 
-<h2 align="center">🏆 TROPHY CASE</h2>
+<h2 align="center">🏆 GITHUB PROFILE SUMMARY</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KUSHAGR27&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KUSHAGR27&theme=tokyonight" />
 </p>
 
 ---
@@ -337,7 +340,7 @@ capability: "Real-time data pipelines,
 
 <!-- =================== CONNECT =================== -->
 
-<h2 align="center">🌐 ESTABLISH CONNECTION</h2>
+<h2 align="center">🌐 WAYS TO CONNECT :- </h2>
 
 <p align="center">
   <a href="mailto:27ksr2@gmail.com">
