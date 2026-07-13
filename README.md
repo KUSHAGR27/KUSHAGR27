@@ -142,7 +142,7 @@ const KUSHAGR = {
 - 🌍 **Geospatial Intelligence** — Real-time fleet monitoring
 - 🤖 **Computer Vision** — Vessel detection & classification
 - 🌊 **Environmental Monitoring** — pH, turbidity, temperature sensors
-- � **LoRa Long-Range** — 433MHz + 900MHz relay systems
+- 📡 **LoRa Long-Range** — 433MHz + 900MHz relay systems
 
 #### 🛠️ Stack
 `ESP32-S3` · `LoRa SX1278` · `React` · `Vite` · `Chart.js` · `Tailwind CSS` · `PlatformIO`
@@ -214,7 +214,7 @@ capability: "Real-time data pipelines,
 
 <table align="center">
 <tr>
-<td align="center">� Model Experimentation</td>
+<td align="center">🧪 Model Experimentation</td>
 <td align="center">🧮 Algorithm Foundations</td>
 <td align="center">🤖 TensorFlow Exploration</td>
 <td align="center">📈 Data-Driven Thinking</td>
@@ -296,9 +296,14 @@ capability: "Real-time data pipelines,
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KUSHAGR27/KUSHAGR27/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KUSHAGR27/KUSHAGR27/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/KUSHAGR27/KUSHAGR27/output/github-contribution-grid-snake.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/KUSHAGR27/KUSHAGR27/output/github-snake-dark.svg"
+    />
+    <img
+      alt="Snake animation"
+      src="https://raw.githubusercontent.com/KUSHAGR27/KUSHAGR27/output/github-snake.svg"
+    />
   </picture>
 </p>
 
